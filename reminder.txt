@@ -1,0 +1,1 @@
+Reminder to change loading screen and also to maybe rebuild it with multithreading support because it lag
